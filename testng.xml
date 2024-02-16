@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Mainpage">
+	<listeners>
+		<listener class-name="SushuPractice.Listeners"></listener>
+	</listeners>
+  <test name="Cartpage">
+	  <classes>
+		   <class name="SushuPracticeActual.Testsfore2e"/>
+		    
+		  
+	  </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

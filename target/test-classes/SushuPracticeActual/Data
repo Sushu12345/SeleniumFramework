@@ -1,0 +1,14 @@
+[
+{
+HashMap<String, String> map = new HashMap<String, String>();
+	map.put("email", "sushu@gmail.com");
+	map.put("password", "Sushu@1234");
+	map.put("productname", "ZARA COAT 3");
+},
+{
+HashMap<String, String> map1 = new HashMap<String, String>();
+	map1.put("email", "prasanth@gmail.com");
+	map1.put("password", "Prasanth@1234");
+	map1.put("productname", "ZARA COAT 3");
+}
+]
